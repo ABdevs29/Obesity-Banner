@@ -11,7 +11,7 @@ body {
   .leftside {
     flex: 50%;
     display: inline;
-    background-color: whitesmoke;
+    background-color: white;
     border-right: 2px grey dashed;
   }
   
